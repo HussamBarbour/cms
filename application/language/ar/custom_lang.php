@@ -1,0 +1,30 @@
+<?php
+$lang['price_start'] = 'الأسعار تبدأ من';
+$lang['price'] = 'السعر';
+$lang['room'] = 'غرفة';
+$lang['room_number'] = 'عدد الغرف';
+$lang['salon_number'] = 'عدد الصالونات';
+$lang['salon'] = 'صالون';
+$lang['price_start_turkish_lire'] = 'ابتداء من %s ليرة تركية';
+$lang['delivery_date'] = 'تاريخ التسليم';
+$lang['area'] = 'المساحة';
+$lang['region'] = 'المنطقة';
+$lang['type_apartment'] = 'نوع الشقق';
+$lang['stage'] = 'مرحلة البناء';
+$lang['delivery_date'] = 'تاريخ التسليم';
+$lang['style_apartments'] = 'نمط الشقق';
+$lang['realty'] = 'عقار';
+$lang['realties'] = 'عقارات';
+$lang['bathroom_number'] = 'عدد الحمامات';
+$lang['floors'] = 'مخططات';
+$lang['top_lines'] = 'الخطوط العلوية';
+$lang['taksim_away'] = 'منطقة ميدان تقسيم';
+$lang['ataturk_airport_away'] = 'مطار أتاتورك الدولي';
+$lang['metro_away'] = 'مترو الأنفاق الجديد';
+$lang['tem_away'] = 'خط اتوستراد TEM';
+$lang['advantages'] = 'الميزات';
+$lang['facilities'] = 'المرافق';
+$lang['english_name'] = 'الاسم بالإنكليزي';
+$lang['latitude'] = 'خط العرض';
+$lang['longitude'] = 'خط الطول';
+?>
